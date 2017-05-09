@@ -1,9 +1,6 @@
-Hello, this is Tonka. I just came back from outer spaceHello, this is Tonka. I just came back from outer space.. 
-HEAD
-Nefis Cabreraaaaa say hi
-
-
-Hello, World! I am Gabby Gabriela.
+Hello, this is Tonka. I just came back from outer space.. 
+Mary Beth is the best
+Nefis Cabreraaaaa says hi
+Hello, World! I am Gabby Gabriela.:)(:
 chelsea 
-chelsea
 
