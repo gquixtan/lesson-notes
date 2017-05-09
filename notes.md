@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 Diana
-=======
- HEAD
-Nefis Cabreraaaaa say hi
-
-
+Mary Beth is the best
+Nefis Cabreraaaaa says hi
 Hello, World! I am Gabby Gabriela.
 chelsea 
-chelsea
 
->>>>>>> 40e34c2d21df11999e89157656b4272814207af9
