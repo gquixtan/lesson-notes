@@ -12,3 +12,13 @@ May 9th, 2017
 1. LS to see if name of file to edit
 1. VI <filename to edit>
 
+
+### In Case of Conflicts:
+1. git pull
+1. vi filename
+1. i  to insert, remove excess lines with HEAD, <<<<<, >>>>>, etc, to make finalized version of doc
+1. escape to exit edit mode, :wq  to save and quit vi
+1. git status
+1. git add filename  or  . (if you want to add all)
+1. git commit -m "notes about edits"
+1. 
