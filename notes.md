@@ -17,3 +17,14 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. git status
 1. git commit -m "edit notes"
 1. git push -u origin master
+
+
+### In Case of Conflicts:
+1. git pull
+1. vi filename
+1. i  to insert, remove excess lines with HEAD, <<<<<, >>>>>, etc, to make finalized version of doc
+1. escape to exit edit mode, :wq  to save and quit vi
+1. git status
+1. git add filename  or  . (if you want to add all)
+1. git commit -m "notes about edits"
+1. 
