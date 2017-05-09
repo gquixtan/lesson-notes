@@ -1,5 +1,5 @@
 Mary Beth is the best
-Nefis Cabreraaaaa say hi
+Nefis Cabreraaaaa says hi
 
 
 Hello, World! I am Gabby Gabriela.
