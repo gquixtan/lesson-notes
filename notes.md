@@ -21,13 +21,13 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. esc write and save 
 1. `git add <filename>`
 1. `git status`
-1. git commit -m "edit notes"
-1. git push -u origin master
->>>>>>> 4824a1db238aa4ab587c4a6467d70134342d282e
+1. `git commit -m "edit notes"`
+1. `git push -u origin master`
+
 
 ### In Case of Conflicts:
-1. git pull
-1. vi filename
+1. `git pull`
+1. `vi filename`
 1. i to insert, remove excess lines with HEAD, <<<<<, >>>>>, etc, to make finalized version of doc
 1. escape to exit edit mode,
 1. :wq  to save and quit vi
@@ -46,3 +46,8 @@ May 10 2017 FREECODE CAMP:
 *Import a Google Font Complete
 *Specify How Fonts Should Degrade Complete
 *Add Images to your Website
+
+1. `git status`
+1. `git add filename`  or  `git add .` (if you want to add one file)
+1. `git commit -m "notes about edits"`
+1. `git push -u origin master`
