@@ -7,7 +7,7 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. Accept invite to collaborate
 1. Clone respository on GitHub using green button + Clipboard
 1. In terminal, navigate to folder where repo will live
-1. Enter *git clone <link from GitHub>*
+1. Enter `git clone <link from GitHub>`
 1. CD into new directory (repo)
 1. LS to see if name of file to edit
 1. `vi <filename to edit>`
@@ -17,7 +17,6 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. git status
 1. git commit -m "edit notes"
 1. git push -u origin master
-
 
 ### In Case of Conflicts:
 1. git pull
