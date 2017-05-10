@@ -23,7 +23,7 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. `git status`
 1. git commit -m "edit notes"
 1. git push -u origin master
->>>>>>> 4824a1db238aa4ab587c4a6467d70134342d282e
+
 
 ### In Case of Conflicts:
 1. git pull
