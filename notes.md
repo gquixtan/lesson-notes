@@ -13,7 +13,7 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. `vi <filename to edit>`
 1. i to insert my edits inside of file
 1. esc write and save 
-1. git add `<filename>`
+1. `git add <filename>`
 1. git status
 1. git commit -m "edit notes"
 1. git push -u origin master
