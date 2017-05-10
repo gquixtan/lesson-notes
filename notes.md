@@ -36,18 +36,18 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. git commit -m "notes about edits"
 1. git push -u origin master
 
-May 10 2017 FREECODE CAMP:
-
 1. `git status`
 1. `git add filename`  or  `git add .` (if you want to add one file)
 1. `git commit -m "notes about edits"`
-1. `git push -u origin master
+1. `git push -u origin maste
 
-+Use CSS Selectors to Style Elements Complete
-+Use a CSS Class to Style an Element Complete
-+Style Multiple Elements with a CSS Class Complete
-+Change the Font Size of an Element Complete
-+Set the Font Family of an Element Complete
-+Import a Google Font Complete
-+Specify How Fonts Should Degrade Complete
-+Add Images to your Website`
+May 10 2017 FREECODE CAMP:
+
++ Use CSS Selectors to Style Elements Complete
++ Use a CSS Class to Style an Element Complete
++ Style Multiple Elements with a CSS Class Complete
++ Change the Font Size of an Element Complete
++ Set the Font Family of an Element Complete
++ Import a Google Font Complete
++ Specify How Fonts Should Degrade Complete
++ Add Images to your Website`
