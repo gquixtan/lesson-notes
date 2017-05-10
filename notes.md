@@ -9,13 +9,10 @@ chelsea
 Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 ##### May 9th, 2017
 
-<<<<<<< HEAD
 ### How to collaborate on a GitHub Repo:
 1. Accept invite to collaborate.
-=======
 ### How to Collaborate on a GitHub Repo
 1. Accept invite to collaborate
->>>>>>> 4824a1db238aa4ab587c4a6467d70134342d282e
 1. Clone respository on GitHub using green button + Clipboard
 1. In terminal, navigate to folder where repo will live
 1. Enter `git clone <link from GitHub>`
@@ -23,23 +20,17 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. LS to see if name of file to edit
 1. `vi <filename to edit>`
 1. i to insert my edits inside of file
-<<<<<<< HEAD
 1. esc write and save
 1. git add `<filename>`
 1. git `status`
-=======
 1. esc write and save 
 1. `git add <filename>`
 1. `git status`
-<<<<<<< HEAD
->>>>>>> 4824a1db238aa4ab587c4a6467d70134342d282e
 1. git commit -m "edit notes"
 1. git push -u origin master
-=======
 1. `git commit -m "edit notes"`
 1. `git push -u origin master`
 
->>>>>>> 7e0927866fd91e19418519cec4e659c6ca3415b8
 
 ### In Case of Conflicts:
 1. `git pull`
@@ -58,7 +49,15 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. `git push -u origin maste
 
 May 10 2017 FREECODE CAMP:
-
++ Say Hello to HTML Elements Complete
++ Headline with the h2 Element Complete
++ Inform with the Paragraph Element Complete
++ Uncomment HTML Complete
++ Comment out HTML Complete
++ Fill in the Blank with Placeholder Text Complete
++ Delete HTML Elements Complete
++ Change the Color of Text Complete
++ Use CSS Selectors to Style Elements
 + Use CSS Selectors to Style Elements Complete
 + Use a CSS Class to Style an Element Complete
 + Style Multiple Elements with a CSS Class Complete
