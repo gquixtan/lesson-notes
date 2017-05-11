@@ -1,4 +1,5 @@
-Mary Beth is the best
+iMary Beth is the best
+
 Nefis Cabreraaaaa says hi
 <3
 Hello, World! I am Gabby Gabriela.:)(:
@@ -53,18 +54,28 @@ May 10 2017 FREECODE CAMP:
   + <h1> HTML elements look like this
   + closing tag looks like this </h1>
 + Headline with the h2 Element Complete
+  + Header `<h1>` tags go from 1 to 6 and they all need a closing tag `</h1>`
 + Inform with the Paragraph Element Complete
+  + ` <p>` short for paragraph and used for normal sized paragraph
+  + to create a `<p>` element: `<p>Blah Blah Blah</p>`
++Uncomment HTML Complete
+  +  <p> short for paragraph and used for normal sized paragraph
+  + to create a <p> element: <p>Blah Blah Blah</p>
 + Uncomment HTML Complete
+  + remove `<!--` and `-->` to take comments out and make code active
 + Comment out HTML Complete
+  + `<!-- -->` to comment out HTML
 + Fill in the Blank with Placeholder Text Complete
 + Delete HTML Elements Complete
 + Change the Color of Text Complete
 + Use CSS Selectors to Style Elements
 + Use CSS Selectors to Style Elements Complete
 + Use a CSS Class to Style an Element Complete
+  + Header <h1> tags go from 1 to 6 and they all need a closing tag </h1>
 + Style Multiple Elements with a CSS Class Complete
 + Change the Font Size of an Element Complete
 + Set the Font Family of an Element Complete
 + Import a Google Font Complete
 + Specify How Fonts Should Degrade Complete
 + Add Images to your Website
+
