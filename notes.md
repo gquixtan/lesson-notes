@@ -51,8 +51,8 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 
 May 10 2017 FREECODE CAMP:
 + Say Hello to HTML Elements Complete
-  + <h1> HTML elements look like this
-  + closing tag looks like this </h1>
+  + `<h1>` HTML elements look like this
+  + closing tag looks like this `</h1>`
 + Headline with the h2 Element Complete
   + Header `<h1>` tags go from 1 to 6 and they all need a closing tag `</h1>`
 + Inform with the Paragraph Element Complete
@@ -74,7 +74,7 @@ May 10 2017 FREECODE CAMP:
 + Use CSS Selectors to Style Elements
 + Use CSS Selectors to Style Elements Complete
 + Use a CSS Class to Style an Element Complete
-  + Header <h1> tags go from 1 to 6 and they all need a closing tag </h1>
+  + 
 + Style Multiple Elements with a CSS Class Complete
 + Change the Font Size of an Element Complete
 + Set the Font Family of an Element Complete
