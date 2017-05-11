@@ -64,6 +64,8 @@ May 10 2017 FREECODE CAMP:
 + Comment out HTML Complete
   + `<!-- -->` to comment out HTML
 + Fill in the Blank with Placeholder Text Complete
+  * Web developers traditionally use lorem ipsum text as placeholder text
+
 + Delete HTML Elements Complete
 + Change the Color of Text Complete
   + An example would be `<h2 style="color: blue">CatPhotoApp</h2>`
