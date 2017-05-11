@@ -1,11 +1,3 @@
-
-iMary Beth is the best
-
-Nefis Cabreraaaaa says hi
-<3
-Hello, World! I am Gabby Gabriela.:)(:
-chelsea 
-
 # Lesson Notes 
 
 Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
