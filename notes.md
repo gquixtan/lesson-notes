@@ -1,4 +1,4 @@
-Mary Beth is the best
+iMary Beth is the best
 
 Nefis Cabreraaaaa says hi
 <3
@@ -53,8 +53,8 @@ May 10 2017 FREECODE CAMP:
 + Say Hello to HTML Elements Complete
 + Headline with the h2 Element Complete
 + Inform with the Paragraph Element Complete
-  +  <p> short for paragraph and used for normal sized paragraph
-  + to create a <p> element: <p>Blah Blah Blah</p>
+  + ` <p>` short for paragraph and used for normal sized paragraph
+  + to create a `<p>` element: `<p>Blah Blah Blah</p>`
 +Uncomment HTML Complete
 + Comment out HTML Complete
   + `<!-- -->` to comment out HTML
