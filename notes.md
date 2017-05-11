@@ -59,9 +59,6 @@ May 10 2017 FREECODE CAMP:
 + Inform with the Paragraph Element Complete
   + ` <p>` short for paragraph and used for normal sized paragraph
   + to create a `<p>` element: `<p>Blah Blah Blah</p>`
-+Uncomment HTML Complete
-  +  <p> short for paragraph and used for normal sized paragraph
-  + to create a <p> element: <p>Blah Blah Blah</p>
 + Uncomment HTML Complete
   + remove `<!--` and `-->` to take comments out and make code active
 + Comment out HTML Complete
