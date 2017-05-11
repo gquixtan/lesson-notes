@@ -1,4 +1,5 @@
 Mary Beth is the best
+
 Nefis Cabreraaaaa says hi
 <3
 Hello, World! I am Gabby Gabriela.:)(:
@@ -56,6 +57,7 @@ May 10 2017 FREECODE CAMP:
   + to create a <p> element: <p>Blah Blah Blah</p>
 +Uncomment HTML Complete
 + Comment out HTML Complete
+  + `<!-- -->` to comment out HTML
 + Fill in the Blank with Placeholder Text Complete
 + Delete HTML Elements Complete
 + Change the Color of Text Complete
