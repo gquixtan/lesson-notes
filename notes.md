@@ -66,6 +66,7 @@ May 10 2017 FREECODE CAMP:
 + Fill in the Blank with Placeholder Text Complete
 + Delete HTML Elements Complete
 + Change the Color of Text Complete
+  + An example would be `<h2 style="color: blue">CatPhotoApp</h2>`
 + Use CSS Selectors to Style Elements
 + Use CSS Selectors to Style Elements Complete
 + Use a CSS Class to Style an Element Complete
