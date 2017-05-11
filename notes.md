@@ -50,6 +50,8 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 
 May 10 2017 FREECODE CAMP:
 + Say Hello to HTML Elements Complete
+  + <h1> HTML elements look like this
+  + closing tag looks like this </h1>
 + Headline with the h2 Element Complete
 + Inform with the Paragraph Element Complete
 + Uncomment HTML Complete
