@@ -43,7 +43,6 @@ Students: Mary Beth, Tonka, Diana, Gabby, Nefis, Chelsea
 1. git add filename  or  (.) (if you want to add one file)
 1. git commit -m "notes about edits"
 1. git push -u origin master
-
 1. `git status`
 1. `git add filename`  or  `git add .` (if you want to add one file)
 1. `git commit -m "notes about edits"`
@@ -56,16 +55,12 @@ May 10 2017 FREECODE CAMP:
 + Inform with the Paragraph Element Complete
   + ` <p>` short for paragraph and used for normal sized paragraph
   + to create a `<p>` element: `<p>Blah Blah Blah</p>`
-+Uncomment HTML Complete
-  +  <p> short for paragraph and used for normal sized paragraph
-  + to create a <p> element: <p>Blah Blah Blah</p>
 + Uncomment HTML Complete
   + remove `<!--` and `-->` to take comments out and make code active
 + Comment out HTML Complete
   + `<!-- -->` to comment out HTML
 + Fill in the Blank with Placeholder Text Complete
   * Web developers traditionally use lorem ipsum text as placeholder text
-
 + Delete HTML Elements Complete
 + Change the Color of Text Complete
 + Use CSS Selectors to Style Elements
