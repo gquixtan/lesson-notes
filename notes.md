@@ -86,4 +86,5 @@ May 10 2017 FREECODE CAMP:
   + `call` to Google to grab the `Lobster` font and load it into your HTML. `<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">`
 + Specify How Fonts Should Degrade Complete
 + Add Images to your Website
-
++ Add Borders Around your Elements
+  * CSS borders have properties like style, color and width
