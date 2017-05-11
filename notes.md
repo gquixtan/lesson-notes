@@ -60,6 +60,7 @@ May 10 2017 FREECODE CAMP:
 + Use CSS Selectors to Style Elements
 + Use CSS Selectors to Style Elements Complete
 + Use a CSS Class to Style an Element Complete
+  + Classes are reusable styles that can be added to HTML elements. (ex: `<style> .blue-text { color: blue; } </style>` )
 + Style Multiple Elements with a CSS Class Complete
 
 + Change the Font Size of an Element Complete
