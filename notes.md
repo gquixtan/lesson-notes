@@ -55,6 +55,8 @@ May 10 2017 FREECODE CAMP:
 + Uncomment HTML Complete
 + Comment out HTML Complete
 + Fill in the Blank with Placeholder Text Complete
+  * Web developers traditionally use lorem ipsum text as placeholder text
+
 + Delete HTML Elements Complete
 + Change the Color of Text Complete
 + Use CSS Selectors to Style Elements
